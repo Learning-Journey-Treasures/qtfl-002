@@ -17,7 +17,7 @@
 - 创建数据库yanglaoyuan，导入项目中的sql文件
 - 根据本地数据库环境，修改src/com/util/DBO.java下35行数据库连接信息
 - 创建本地Tomcat server，并启动
-- 登录： http://localhost:8080/yanglaoyuan/  管理员账号密码： admin/123  护工账号密码： 111/111
+- 登录： http://localhost:8080/yanglaoyuan/  管理员账号密码： admin/111  护工账号密码： 111/111
 
 #### 3.项目部分截图
 ![输入图片说明](1.png)![输入图片说明](2.png)![输入图片说明](3.png)![输入图片说明](4.png)![输入图片说明](7.png)
